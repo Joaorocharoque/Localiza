@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    height: 100px;
+    margin-top: 35px;
+    background-color: black;
+  }
+.footer__copyright{
+     color: aliceblue;
+     margin-left: 45%;
+  }
+  .logo{
+    color: white;
+    margin-top: 0px;
+  }
