@@ -51,7 +51,7 @@ function App(props) {
 
           <label>
             Senha :
-            <input type="password" {...register("password")} />
+            <input type="text" {...register("password")} />
           </label>
         </Form.Group>
 
