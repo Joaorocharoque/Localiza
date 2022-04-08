@@ -37,7 +37,7 @@ function App(props) {
 
         <Form.Group className="mb-3" controlId="formGroupEmail">
 
-          <Form.Label>Primeiro Passo</Form.Label>
+          <Form.Label>Crie sua conta</Form.Label>
 
           <label>
             Nome :
